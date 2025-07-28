@@ -1,16 +1,70 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
 
-<!--
-**codingnails/codingnails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **Rupali Gupta** 👋
 
-Here are some ideas to get you started:
+**AI Solution Engineer · AI Forward Deployment Engineer · Senior Software Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Santa Clara, CA | Authorized to work in U.S.
+
+---
+
+## 🚀 What I'm Building 
+
+- **[README AI Agent Generator](https://github.com/codingnails/readme-ai-agent)** — *Auto generates AI powered readme.md files*  
+  `Python` · `AIAgent` · `Langchain` · `OpenAI` · `Streamlit`
+  
+- **[AI PDF Assistant (RAG app)](https://github.com/codingnails/pdf-assistant-rag-weaviate)** — *Promotes context-aware in PDF search, speeding up user decisions and productivity.*  
+  `Python` · `RAG` · `OpenAI` · `Weaviate`
+
+- **[CPT AI Code Assistant](https://github.com/codingnails/cpt-ai-code-assistant)** — *Translates CPT medical billing codes into patient-friendly explanations—enhancing healthcare documentation clarity.*  
+  `Python` · `LangChain` · `OpenAI` · `Streamlit`
+
+- **[AI Model Comparator](#)** — *AI Model comparator for matrics and eval comparison*  
+  `Python` · `HuggingFace` · `Baseten` · `Container-use`
+
+  
+*Working on more AI prototypes and developer tools—stay tuned! ✨*
+
+---
+
+## 🛠️ Professional Experience
+
+**Software Engineer | Morningstar Canada** *(Toronto, Apr 2022 – May 2025)*  
+**Software Developer | PCL Industrial Management** *(Edmonton, Apr 2019 – Jan 2022)*  
+**Software Engineer | QA Infotech Pvt Ltd** *(Noida, Jun 2017 – Jul 2018)*  
+**Research Fellow | IIT Delhi** *(Delhi, May 2016 – Jul 2016)*  
+
+---
+
+## 💻 Core Skills
+
+| Category           | Tools & Technologies |
+|--------------------|-----------------------|
+| Programming        | Python, C#, SQL, PostgreSQL |
+| Cloud / DevOps     | AWS (S3, Glue, RDS), Docker, Git |
+| AI/ML              | LangChain, Hugging Face, GPT-4, AWS Bedrock, Weaviate, OpenAI API |
+| Developer Enablement | API SDKs, Technical Demos, Documentation, Streamlit, POCs |
+
+---
+
+## 🎓 Education
+
+- **M.S. in Computer Science (AI)**, University of Alberta *(2018–2020)* — 4.0/4.0 GPA  
+- **B.E. in Computer Science & Engineering**, Dr. A.P.J. Abdul Kalam Technical University *(2013–2017)* — GPA: 3.6/4.0
+
+---
+
+## 🏆 Awards & Volunteering
+
+- **AWS re:Invent "All Builders Welcome" Grant** – Full scholarship (2022)  
+- **FGSR Graduate Travel Scholarship**, University of Alberta *(5% selection rate)*  
+- Active volunteer: Beta Program Manager – Technical at Vital Ally (Mar 2025–Present), Campus Food Bank, and English coaching programs.
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rupaliguptarg1/)  
+[![Medium](https://img.shields.io/badge/Read–Blog-Medium-black?logo=medium)](https://medium.com/@rupaligupta.tech)  
+✉️ rupaligupta.tech@gmail.com
+
