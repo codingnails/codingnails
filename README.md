@@ -45,20 +45,7 @@
 | AI/ML              | LangChain, Hugging Face, GPT-4, AWS Bedrock, Weaviate, OpenAI API |
 | Developer Enablement | API SDKs, Technical Demos, Documentation, Streamlit, POCs |
 
----
 
-## 🎓 Education
-
-- **M.S. in Computer Science (AI)**, University of Alberta *(2018–2020)* — 4.0/4.0 GPA  
-- **B.E. in Computer Science & Engineering**, Dr. A.P.J. Abdul Kalam Technical University *(2013–2017)* — GPA: 3.6/4.0
-
----
-
-## 🏆 Awards & Volunteering
-
-- **AWS re:Invent "All Builders Welcome" Grant** – Full scholarship (2022)  
-- **FGSR Graduate Travel Scholarship**, University of Alberta *(5% selection rate)*  
-- Active volunteer: Beta Program Manager – Technical at Vital Ally (Mar 2025–Present), Campus Food Bank, and English coaching programs.
 
 ---
 
