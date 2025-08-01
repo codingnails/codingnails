@@ -16,6 +16,9 @@
 - **[AI PDF Assistant (RAG app)](https://github.com/codingnails/pdf-assistant-rag-weaviate)** — *Promotes context-aware in PDF search, speeding up user decisions and productivity.*  
   `Python` · `RAG` · `OpenAI` · `Weaviate`
 
+- **[MCP GitHub-Notion PR Reviewer](https://github.com/codingnails/mcp-pr-review-git-notion)** — *Automates PR reviews by fetching data from GitHub, analyzing with Claude, and saving summaries to Notion.*  
+  `Python` · `MCP` · `Claude` · `AITools`
+
 - **[CPT AI Code Assistant](https://github.com/codingnails/cpt-ai-code-assistant)** — *Translates CPT medical billing codes into patient-friendly explanations—enhancing healthcare documentation clarity.*  
   `Python` · `LangChain` · `OpenAI` · `Streamlit`
 
