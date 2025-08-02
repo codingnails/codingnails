@@ -45,7 +45,7 @@
 |--------------------|-----------------------|
 | Programming        | Python, C#, SQL, PostgreSQL |
 | Cloud / DevOps     | AWS (S3, Glue, RDS), Docker, Git |
-| AI/ML              | LangChain, Hugging Face, GPT-4, AWS Bedrock, Weaviate, OpenAI API |
+| AI/ML              | LangChain, Hugging Face, GPT-4, Weaviate, OpenAI API |
 | Developer Enablement | API SDKs, Technical Demos, Documentation, Streamlit, POCs |
 
 
