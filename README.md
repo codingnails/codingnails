@@ -2,7 +2,7 @@
 
 # Hi there, I'm **Rupali Gupta** 👋
 
-**AI Solution Engineer · AI Forward Deployment Engineer · Senior Software Engineer**
+**AI Engineer · AI Solution Engineer · Senior Software Engineer**
 
 📍 Santa Clara, CA | Authorized to work in U.S.
 
